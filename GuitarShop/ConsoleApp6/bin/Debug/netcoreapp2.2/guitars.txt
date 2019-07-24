@@ -1,0 +1,4 @@
+﻿ID Price Model Builder Type
+1 500 Stratocastor Fender Acoustic
+2 1000 Stratocatstor Fender Electric
+4 100 Ivanob Ya acoustic

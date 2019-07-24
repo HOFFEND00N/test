@@ -1,0 +1,12 @@
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\bin\Debug\netcoreapp2.2\guitars.txt
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.deps.json
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.runtimeconfig.json
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.dll
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.pdb
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.dll
+C:\Users\Ivan\Desktop\Confirmit Summer School\Students\2019\GuitarShop\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.pdb
