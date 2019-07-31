@@ -33,17 +33,18 @@ namespace FolderSync
                         {
                             slaveListOfFiles.Add(item);
                         }
-                        Synchronization(masterListOfFiles, slaveListOfFiles);
 
-                        foreach (var file in masterListOfFiles)
+                        var tupleListsMasterAndSlave = Synchronization(masterListOfFiles, slaveListOfFiles);
+
+                        foreach (var file in tupleListsMasterAndSlave.Item1)
                         {
-                            File.Copy(file.FullName, masterDirectory.FullName + "\\" + file.Name, true);
+                            File.Copy(file.FullName, Path.Combine(masterFolderAdress,file.Name), true);
                         }
-                        foreach (var file in slaveListOfFiles)
+                        foreach (var file in tupleListsMasterAndSlave.Item2)
                         {
-                            File.Copy(file.FullName, slaveDirectory.FullName + "\\" + file.Name, true);
+                            File.Copy(file.FullName, Path.Combine(slaveFolderAdress, file.Name), true);
                         }
-                        Console.WriteLine("Synchroniztion complete");
+                        Console.WriteLine("Synchronization complete");
                         break;
                     case "exit":
                         return;
@@ -53,7 +54,7 @@ namespace FolderSync
                 }
             }
         }
-        public static void Synchronization(List<FileInfo> master, List<FileInfo> slave)
+        public static Tuple<List<FileInfo>, List<FileInfo>> Synchronization(List<FileInfo> master, List<FileInfo> slave)
         {
             List<FileInfo> filesInMasterNotInSlave = new List<FileInfo>();
             List<FileInfo> filesInSlaveNotInMaster = new List<FileInfo>();
@@ -61,12 +62,12 @@ namespace FolderSync
             if (master.Count == 0)
             {
                 master = slave;
-                return;
+                return new Tuple<List<FileInfo>, List<FileInfo>>(master, slave);
             }
             if (slave.Count == 0)
             {
                 slave = master;
-                return;
+                return new Tuple<List<FileInfo>, List<FileInfo>>(master, slave);
             }
             if (master.Count != 0 && slave.Count != 0)
             {
@@ -94,6 +95,7 @@ namespace FolderSync
                         slave.Add(file);
                 }
             }
+            return new Tuple<List<FileInfo>, List<FileInfo>>(master, slave);
         }
     }
 }

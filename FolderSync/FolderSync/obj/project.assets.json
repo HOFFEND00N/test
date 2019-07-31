@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\source\\repos\\FolderSync\\FolderSync\\FolderSync.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\test\\FolderSync\\FolderSync\\FolderSync.csproj",
       "projectName": "FolderSync",
-      "projectPath": "C:\\Users\\Ivan\\source\\repos\\FolderSync\\FolderSync\\FolderSync.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Desktop\\test\\FolderSync\\FolderSync\\FolderSync.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\source\\repos\\FolderSync\\FolderSync\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Desktop\\test\\FolderSync\\FolderSync\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -709,8 +709,7 @@
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

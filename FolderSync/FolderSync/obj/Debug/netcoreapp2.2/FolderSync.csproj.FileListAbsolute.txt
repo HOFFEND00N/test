@@ -9,3 +9,14 @@ C:\Users\Ivan\source\repos\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderS
 C:\Users\Ivan\source\repos\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.AssemblyInfo.cs
 C:\Users\Ivan\source\repos\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.dll
 C:\Users\Ivan\source\repos\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.pdb
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\bin\Debug\netcoreapp2.2\FolderSync.deps.json
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\bin\Debug\netcoreapp2.2\FolderSync.runtimeconfig.json
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\bin\Debug\netcoreapp2.2\FolderSync.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\bin\Debug\netcoreapp2.2\FolderSync.dll
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\bin\Debug\netcoreapp2.2\FolderSync.pdb
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.dll
+C:\Users\Ivan\Desktop\test\FolderSync\FolderSync\obj\Debug\netcoreapp2.2\FolderSync.pdb
