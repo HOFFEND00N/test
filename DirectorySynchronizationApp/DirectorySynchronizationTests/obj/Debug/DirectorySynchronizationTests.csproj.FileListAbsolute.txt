@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\DirectorySynchronizationTests.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\DirectorySynchronizationTests.pdb
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\DirectorySynchronizationLib.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\DirectorySynchronizationLib.pdb
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\obj\Debug\DirectorySynchronizationTests.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\obj\Debug\DirectorySynchronizationTests.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\obj\Debug\DirectorySynchronizationTests.csproj.CopyComplete
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\obj\Debug\DirectorySynchronizationTests.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationTests\obj\Debug\DirectorySynchronizationTests.pdb

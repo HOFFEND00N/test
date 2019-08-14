@@ -1,0 +1,6 @@
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationLib\bin\Debug\DirectorySynchronizationLib.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationLib\bin\Debug\DirectorySynchronizationLib.pdb
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationLib\obj\Debug\DirectorySynchronizationLib.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationLib\obj\Debug\DirectorySynchronizationLib.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationLib\obj\Debug\DirectorySynchronizationLib.dll
+C:\Users\Ivan\source\repos\DirectorySynchronizationApp\DirectorySynchronizationLib\obj\Debug\DirectorySynchronizationLib.pdb
